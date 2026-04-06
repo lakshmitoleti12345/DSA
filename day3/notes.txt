@@ -1,0 +1,8 @@
+any-returns true if any of the valuespresent in the list is
+true
+truethiness Rules:
+Non-zero numbers,non-empty string , and non-empty collections
+are considered truthy.
+Values like 0,0.0,False,None,"",{}.[],and ()are
+considered falsy.
+any([0,0.0,[],{}])
