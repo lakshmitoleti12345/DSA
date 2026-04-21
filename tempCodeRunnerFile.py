@@ -1,0 +1,1 @@
+print(reverse_with_leading_zero(1230))

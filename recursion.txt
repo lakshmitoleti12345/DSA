@@ -1,0 +1,16 @@
+Recursion is a programming technique where a function calls itself to solve smaller instances
+ of a problem.
+ This approach is particularly useful for problems that can be broken down into subproblems, 
+ such as mathematical sequences, tree traversals, and divide-and-conquer algorithms.
+
+A recursive series is a sequence of numbers where each term is defined based on one or more 
+preceding terms using a recursive formula. Examples include the Fibonacci sequence, arithmetic
+ sequences, and geometric sequences.
+
+Key Components of Recursion
+
+Base Case: This is the stopping condition that prevents infinite recursion. For example, 
+in calculating the factorial of a number, the base case is when n == 0.
+
+Recursive Case: This defines how the problem is broken into smaller subproblems. 
+For instance, in the Fibonacci sequence, F(n) = F(n-1) + F(n-2).
